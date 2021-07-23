@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "navigation-example",
-    "slug": "navigation-example",
+    "name": "weater-app",
+    "slug": "weater-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
